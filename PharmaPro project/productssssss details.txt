@@ -1,0 +1,103 @@
+[
+    {
+        "id": 21,
+        "name": "Pantoprazole",
+        "brand": "Protonix",
+        "category": "Acid Reducer",n
+        "price": 10.99,
+        "description": "Pantoprazole 40mg, treats acid reflux and stomach ulcers.",
+        "imageFilename": "pantoprazole.jpeg",
+        "createdAt": "2023-08-02T11:20:30.780000"
+    },
+    {
+        "id": 22,
+        "name": "Hydroxyzine",
+        "brand": "Vistaril",
+        "category": "Antihistamine",
+        "price": 6.99,
+        "description": "Hydroxyzine 25mg, relieves itching and anxiety symptoms.",
+        "imageFilename": "hydroxyzine.jpeg",
+        "createdAt": "2023-08-03T13:40:25.450000"
+    },
+    {
+        "id": 23,
+        "name": "Metoprolol",
+        "brand": "Lopressor",
+        "category": "Blood Pressure Medication",
+        "price": 12.49,
+        "description": "Metoprolol 50mg, treats high blood pressure and chest pain.",
+        "imageFilename": "metoprolol.jpeg",
+        "createdAt": "2023-08-04T09:15:10.120000"
+    },
+    {
+        "id": 24,
+        "name": "Tamsulosin",
+        "brand": "Flomax",
+        "category": "Blood Pressure Medication",
+        "price": 14.99,
+        "description": "Tamsulosin 0.4mg, helps with enlarged prostate and urine flow issues.",
+        "imageFilename": "tamsulosin.jpeg",
+        "createdAt": "2023-08-05T14:30:20.450000"
+    },
+    {
+        "id": 25,
+        "name": "Levofloxacin",
+        "brand": "Levaquin",
+        "category": "Antibiotic",
+        "price": 18.99,
+        "description": "Levofloxacin 500mg, used to treat bacterial infections.",
+        "imageFilename": "levofloxacin.jpeg",
+        "createdAt": "2023-08-06T12:40:33.990000"
+    },
+    {
+        "id": 26,
+        "name": "Fexofenadine",
+        "brand": "Allegra",
+        "category": "Antihistamine",
+        "price": 7.49,
+        "description": "Fexofenadine 180mg, relieves allergy symptoms like hay fever and itchy skin.",
+        "imageFilename": "fexofenadine.jpeg",
+        "createdAt": "2023-08-07T11:50:25.340000"
+    },
+    {
+        "id": 27,
+        "name": "Rosuvastatin",
+        "brand": "Crestor",
+        "category": "Cholesterol Medication",
+        "price": 19.49,
+        "description": "Rosuvastatin 10mg, lowers cholesterol and reduces risk of heart disease.",
+        "imageFilename": "rosuvastatin.jpeg",
+        "createdAt": "2023-08-08T10:25:30.760000"
+    },
+    {
+        "id": 28,
+        "name": "Prednisone",
+        "brand": "Deltasone",
+        "category": "Pain Reliever",
+        "price": 11.49,
+        "description": "Prednisone 20mg, reduces inflammation and treats autoimmune conditions.",
+        "imageFilename": "prednisone.jpeg",
+        "createdAt": "2023-08-09T14:55:15.420000"
+    },
+    {
+        "id": 29,
+        "name": "Clarithromycin",
+        "brand": "Biaxin",
+        "category": "Antibiotic",
+        "price": 17.49,
+        "description": "Clarithromycin 250mg, treats bacterial infections and respiratory issues.",
+        "imageFilename": "clarithromycin.jpeg",
+        "createdAt": "2023-08-10T13:30:45.980000"
+    },
+    {
+        "id": 30,
+        "name": "Rivaroxaban",
+        "brand": "Xarelto",
+        "category": "Blood Pressure Medication",
+        "price": 21.99,
+        "description": "Rivaroxaban 10mg, used to prevent blood clots in patients with atrial fibrillation.",
+        "imageFilename": "rivaroxaban.jpeg",
+        "createdAt": "2023-08-11T12:15:50.110000"
+    }
+] 
+json-server --watch db.json --port 4000

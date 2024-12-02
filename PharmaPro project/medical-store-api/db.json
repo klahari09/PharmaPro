@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "paracetamol101",
+      "brand": "Tylenol",
+      "category": "Other",
+      "price": "4.99",
+      "description": "Paracetamol 500mg, effective for mild to moderate pain and fever.",
+      "imageFilename": "paracetamol.jpeg",
+      "createdAt": "2023-07-13T17:46:54.890000"
+    },
+    {
+      "id": 2,
+      "name": "Amoxicillin",
+      "brand": "Amoxil",
+      "category": "Antibiotic",
+      "price": 12.99,
+      "description": "Amoxicillin 250mg, used to treat bacterial infections.",
+      "imageFilename": "amoxicillin.jpeg",
+      "createdAt": "2023-07-14T12:30:10.450000"
+    },
+    {
+      "id": 3,
+      "name": "Ibuprofen",
+      "brand": "Advil",
+      "category": "Pain Reliever",
+      "price": 5.49,
+      "description": "Ibuprofen 200mg, reduces pain, inflammation, and fever.",
+      "imageFilename": "ibuprofen.jpeg",
+      "createdAt": "2023-07-15T08:20:30.120000"
+    },
+    {
+      "id": 4,
+      "name": "Cetirizine",
+      "brand": "Zyrtec",
+      "category": "Antihistamine",
+      "price": 8.99,
+      "description": "Cetirizine 10mg, provides relief from allergies and hay fever.",
+      "imageFilename": "cetirizine.jpeg",
+      "createdAt": "2023-07-16T14:50:25.660000"
+    },
+    {
+      "id": 5,
+      "name": "Metformin",
+      "brand": "Glucophage",
+      "category": "Diabetes Medication",
+      "price": 15.99,
+      "description": "Metformin 500mg, used to control blood sugar in type 2 diabetes.",
+      "imageFilename": "metformin.jpeg",
+      "createdAt": "2023-07-17T11:00:45.980000"
+    },
+    {
+      "id": 6,
+      "name": "Atorvastatin",
+      "brand": "Lipitor",
+      "category": "Cholesterol Medication",
+      "price": 19.99,
+      "description": "Atorvastatin 10mg, helps reduce cholesterol levels.",
+      "imageFilename": "atorvastatin.jpeg",
+      "createdAt": "2023-07-18T09:35:10.250000"
+    },
+    {
+      "id": 7,
+      "name": "Omeprazole",
+      "brand": "Prilosec",
+      "category": "Acid Reducer",
+      "price": 10.49,
+      "description": "Omeprazole 20mg, treats acid reflux and heartburn.",
+      "imageFilename": "omeprazole.jpeg",
+      "createdAt": "2023-07-19T10:15:30.670000"
+    },
+    {
+      "id": 8,
+      "name": "Losartan",
+      "brand": "Cozaar",
+      "category": "Blood Pressure Medication",
+      "price": 12.49,
+      "description": "Losartan 50mg, used for treating high blood pressure.",
+      "imageFilename": "losartan.jpeg",
+      "createdAt": "2023-07-20T13:40:22.340000"
+    },
+    {
+      "id": 9,
+      "name": "Albuterol",
+      "brand": "Ventolin",
+      "category": "Bronchodilator",
+      "price": 22.99,
+      "description": "Albuterol inhaler, provides relief for asthma and breathing issues.",
+      "imageFilename": "albuterol.jpeg",
+      "createdAt": "2023-07-21T15:20:40.230000"
+    },
+    {
+      "id": 10,
+      "name": "Aspirin",
+      "brand": "Bayer",
+      "category": "Pain Reliever",
+      "price": 4.99,
+      "description": "Aspirin 81mg, used for pain relief and reducing blood clots.",
+      "imageFilename": "aspirin.jpeg",
+      "createdAt": "2023-07-22T17:55:50.780000"
+    },
+    {
+      "id": 11,
+      "name": "Dolo 650",
+      "brand": "Micro Labs",
+      "category": "Pain Reliever",
+      "price": 3.49,
+      "description": "Paracetamol 650mg, provides effective relief from fever and body pain.",
+      "imageFilename": "dolo650.jpeg",
+      "createdAt": "2023-07-23T10:25:33.450000"
+    },
+    {
+      "id": 12,
+      "name": "Ciprofloxacin",
+      "brand": "Cipro",
+      "category": "Antibiotic",
+      "price": 14.99,
+      "description": "Ciprofloxacin 500mg, effective for treating bacterial infections.",
+      "imageFilename": "ciprofloxacin.jpeg",
+      "createdAt": "2023-07-24T14:10:22.110000"
+    },
+    {
+      "id": 13,
+      "name": "Loratadine",
+      "brand": "Claritin",
+      "category": "Antihistamine",
+      "price": 7.99,
+      "description": "Loratadine 10mg, relieves allergy symptoms such as sneezing and runny nose.",
+      "imageFilename": "loratadine.jpeg",
+      "createdAt": "2023-07-25T09:30:11.210000"
+    },
+    {
+      "id": 14,
+      "name": "Simvastatin",
+      "brand": "Zocor",
+      "category": "Cholesterol Medication",
+      "price": 18.99,
+      "description": "Simvastatin 20mg, reduces bad cholesterol and triglycerides.",
+      "imageFilename": "simvastatin.jpeg",
+      "createdAt": "2023-07-26T15:45:40.330000"
+    },
+    {
+      "id": 15,
+      "name": "Ranitidine",
+      "brand": "Zantac",
+      "category": "Acid Reducer",
+      "price": 9.49,
+      "description": "Ranitidine 150mg, reduces stomach acid production.",
+      "imageFilename": "ranitidine.jpeg",
+      "createdAt": "2023-07-27T11:20:55.980000"
+    },
+    {
+      "id": 16,
+      "name": "Gabapentin",
+      "brand": "Neurontin",
+      "category": "Pain Reliever",
+      "price": 6.99,
+      "description": "Gabapentin 100mg, used for nerve pain and seizures.",
+      "imageFilename": "gabapentin.jpeg",
+      "createdAt": "2023-07-28T08:50:30.500000"
+    },
+    {
+      "id": 17,
+      "name": "Azithromycin",
+      "brand": "Zithromax",
+      "category": "Antibiotic",
+      "price": 16.99,
+      "description": "Azithromycin 250mg, effective for treating bacterial infections.",
+      "imageFilename": "azithromycin.jpeg",
+      "createdAt": "2023-07-29T13:35:45.670000"
+    },
+    {
+      "id": 18,
+      "name": "Clopidogrel",
+      "brand": "Plavix",
+      "category": "Blood Pressure Medication",
+      "price": 11.99,
+      "description": "Clopidogrel 75mg, helps prevent blood clots in high blood pressure patients.",
+      "imageFilename": "clopidogrel.jpeg",
+      "createdAt": "2023-07-30T12:10:15.420000"
+    },
+    {
+      "id": 19,
+      "name": "Montelukast",
+      "brand": "Singulair",
+      "category": "Bronchodilator",
+      "price": 20.49,
+      "description": "Montelukast 10mg, helps with asthma and allergy symptoms.",
+      "imageFilename": "montelukast.jpeg",
+      "createdAt": "2023-07-31T17:30:50.310000"
+    },
+    {
+      "id": 20,
+      "name": "Tramadol",
+      "brand": "Ultram",
+      "category": "Pain Reliever",
+      "price": "5.99",
+      "description": "Tramadol 50mg, used for moderate to severe pain.",
+      "imageFilename": "tramadol.jpeg",
+      "createdAt": "2023-08-01T10:55:40.220000"
+    }
+  ]
+}
